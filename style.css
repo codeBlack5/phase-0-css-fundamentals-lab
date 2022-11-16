@@ -1,5 +1,38 @@
-body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
+body
+{
+  text-align: center;
+}
+header nav
+{
+  color:rgb(15, 7, 1);
+  padding: 10px;
+ 
+}
+nav a
+{
+  padding: 10px;
+  align-items: center;
+  justify-content: space-around;
+  font-size: 20px;
+  color:rgb(148, 7, 7);
+  text-decoration:dashed;
+}
+img
+{
+  width: 40%
+}
+#featured-property p
+{
+  margin: auto;
+  width: 30%;
+  padding: 10px;
+}
+#details 
+{
+    width: 25%
+    padding: 20px;
+    background-color:rgb(233, 58, 15);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
